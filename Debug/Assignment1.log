@@ -1,0 +1,7 @@
+﻿  Assignment1.cpp
+c:\users\rajan\documents\visual studio 2013\projects\assignment1\assignment1\assignment1.cpp(13): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
+c:\users\rajan\documents\visual studio 2013\projects\assignment1\assignment1\assignment1.cpp(19): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
+c:\users\rajan\documents\visual studio 2013\projects\assignment1\assignment1\assignment1.cpp(23): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
+c:\users\rajan\documents\visual studio 2013\projects\assignment1\assignment1\assignment1.cpp(33): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
+c:\users\rajan\documents\visual studio 2013\projects\assignment1\assignment1\assignment1.cpp(43): warning C4566: character represented by universal-character-name '\u2212' cannot be represented in the current code page (1252)
+  Assignment1.vcxproj -> C:\Users\Rajan\Documents\Visual Studio 2013\Projects\Assignment1\Debug\Assignment1.exe
